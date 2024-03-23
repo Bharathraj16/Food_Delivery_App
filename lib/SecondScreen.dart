@@ -52,6 +52,7 @@ class _SecondScreenState extends State<SecondScreen> {
                 Text( "delivery team that is professionaly and",style: TextStyle(color: Colors.black)),
                 Text( "intelligently trained",style: TextStyle(color: Colors.black)),
                 SizedBox(height: 60.0),
+                //ElevatedButton
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
                       shape: RoundedRectangleBorder(
