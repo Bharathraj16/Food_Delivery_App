@@ -51,6 +51,7 @@ class _ThirdScreenState extends State<ThirdScreen> {
                 Text( "restuarants throughout the teriitory and",style: TextStyle(color: Colors.black)),
                 Text( "around your area carefully selected",style: TextStyle(color: Colors.black)),
                 SizedBox(height: 60.0),
+                //ElevatedButton
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
                       shape: RoundedRectangleBorder(
