@@ -52,6 +52,7 @@ class _FirstScreenState extends State<FirstScreen> {
                 Text( "restaurants throughtout the territory and",style: TextStyle(color: Colors.black)),
                 Text( "around your area carefully selected",style: TextStyle(color: Colors.black)),
                 SizedBox(height: 60.0),
+            //ElevatedButton
             ElevatedButton(
               style: ElevatedButton.styleFrom(
                 shape: RoundedRectangleBorder(
